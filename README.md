@@ -1,24 +1,24 @@
-# # Algoritmos en Java
+# Java Algorithms
 
-Este repositorio contiene implementaciones en Java de varios ejercicios de algoritmos. Cada carpeta representa un ejercicio específico y contiene el código fuente en Java junto con una descripción detallada del problema.
+This repository contains Java implementations of various algorithm exercises. Each folder represents a specific exercise and includes the Java source code along with a detailed problem description.
 
-## Cómo Contribuir
+## How to Contribute
 
-Si quieres contribuir con un nuevo ejercicio o mejorar una implementación existente, sigue estos pasos:
+If you want to contribute a new exercise or enhance an existing implementation, follow these steps:
 
-1. Hacer un fork del repositorio.
-2. Clonar tu fork: `git clone https://github.com/TU_USUARIO/AlgoritmosJavaRepository.git`
-3. Crear una rama para tu contribución: `git checkout -b nueva-funcionalidad`
-4. Realizar los cambios y commit: `git commit -m "Descripción de los cambios"`
-5. Hacer push a la rama: `git push origin nueva-funcionalidad`
-6. Crear un Pull Request en GitHub.
+1. Fork the repository.
+2. Clone your fork: `git clone https://github.com/mariandotg/java-exercises.git`
+3. Create a branch for your contribution: `git checkout -b new-feature`
+4. Make changes and commit: `git commit -m "Description of the changes"`
+5. Push the branch: `git push origin new-feature`
+6. Create a Pull Request on GitHub.
 
-## Recursos Adicionales
+## Additional Resources
 
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-java)
 - [CodeSignal](https://codesignal.com/)
 
-## Agradecimientos
+## Acknowledgments
 
-Agradecemos a la comunidad de programadores y las plataformas en línea que proporcionan desafíos y problemas para mejorar nuestras habilidades en algoritmos y programación.
+We appreciate the programming community and online platforms that provide challenges and problems to enhance our algorithmic and programming skills.
